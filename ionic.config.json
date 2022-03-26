@@ -1,0 +1,7 @@
+{
+  "name": "trabalhopedidos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
